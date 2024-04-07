@@ -11,6 +11,14 @@
   margin: 30px;
 }
 .contentPage h2 {
+  font-weight: 700;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
+}
+.contentPage p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  font-family: "Poppins", sans-serif;
+  color: black;
 }
